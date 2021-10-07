@@ -6,8 +6,8 @@ This is where **XeroNord** Grub Theme will be. Constantly updated so keep coming
   <img src="https://i.imgur.com/v3L9nDi.png">
 </p>
 
-1- Git Clone this repo
-2- chmod +x ./install.sh
-3- Execute sudo ./install.sh
+1- Git Clone this repo<br />
+2- chmod +x ./install.sh<br />
+3- Execute sudo ./install.sh<br />
 
 Enjoy ;)
